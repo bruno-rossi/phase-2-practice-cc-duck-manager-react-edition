@@ -10,7 +10,7 @@
       "id": 2,
       "name": "Quacker Jack Kid",
       "img_url": "https://m.media-amazon.com/images/I/51NG84N1jrL._AC_SS450_.jpg",
-      "likes": 1
+      "likes": 4
     },
     {
       "id": 3,
@@ -29,6 +29,12 @@
       "name": "Spiderduck",
       "img_url": "https://amsterdamduckstore.com/wp-content/uploads/2015/08/spidy-rubber-duck-leaning.jpg",
       "likes": 7
+    },
+    {
+      "name": "Uncle Scrooge",
+      "img_url": "https://res.cloudinary.com/teepublic/image/private/s--pN9tX7_T--/c_crop,x_10,y_10/c_fit,h_1008/c_crop,g_north_west,h_1260,w_1260,x_-151,y_-126/co_rgb:fffffe,e_colorize,u_Misc:One%20Pixel%20Gray/c_scale,g_north_west,h_1260,w_1260/fl_layer_apply,g_north_west,x_-151,y_-126/bo_157px_solid_white/e_overlay,fl_layer_apply,h_1260,l_Misc:Art%20Print%20Bumpmap,w_1260/e_shadow,x_6,y_6/c_limit,h_1254,w_1254/c_lpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_auto:good:420,w_630/v1619483682/production/designs/21410873_0.jpg",
+      "likes": 0,
+      "id": 6
     }
   ]
 }
